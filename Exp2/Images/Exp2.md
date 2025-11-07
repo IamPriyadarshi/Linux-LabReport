@@ -71,9 +71,7 @@ cp readme.txt data/project_info.txt
 ```
 
 ### Output:
-<p align="center">
-<img align="center" src="img/t3.png" width="900">
-</p>
+![Output](./cpcmd.png)
 
 
 ## TASK 4: [FIle Permissions]
@@ -93,9 +91,7 @@ chmod u+x backup.sh
 ```
 
 ### Output:
-<p align="center">
-<img align="center" src="img/t4.1.png" width="900">
-</p>
+![]
 
 ## TASK 5: [FIle Viewing]
 

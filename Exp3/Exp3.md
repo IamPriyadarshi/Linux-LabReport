@@ -38,7 +38,7 @@ touch -t 202401151430 dated_file.txt
 
 ### Output:
 
-![exp3_touch](/.img/exp3_touch.png)
+![exp3](/Exp3/Images/dated.png)
 
 ---
 
@@ -59,7 +59,7 @@ rm -r old_directory/
 
 ### Output:
 
-![exp3_cp_mv_rm](/.img/exp3_cp_mv_rm.png)
+![exp3_cp_mv_rm](./Images/removal.png)
 
 ---
 
@@ -81,7 +81,7 @@ tail -f /var/log/syslog
 
 ### Output:
 
-![exp3_cat_less](/.img/exp3_cat_less.png)
+![exp3_cat_less](/Exp3/Images/syslog.png)
 
 ---
 
@@ -103,7 +103,7 @@ chgrp developers Readme.txt
 
 ### Output:
 
-![exp3_permissions](/.img/exp3_permissions.png)
+![exp3_permissions](/Exp3/Images/Permision.png)
 
 ---
 
@@ -124,7 +124,7 @@ find /tmp -type f -empty -delete
 
 ### Output:
 
-!![exp3_find](/.img/exp3_find.png)
+!![exp3_find](/Exp3/Images/images.png)
 
 ---
 
@@ -145,7 +145,7 @@ grep -n "TODO" *.txt
 
 ### Output:
 
-!![exp3_grep](/.img/exp3_grep.png)
+!![exp3_grep](/Exp3/Images/grep.png)
 
 ---
 
@@ -166,7 +166,7 @@ gunzip largefile.txt.gz
 
 ### Output:
 
-!![exp3_tar_gzip](/.img/exp3_tar_gzip.png)
+!![exp3_tar_gzip](/Exp3/Images/tar.png)
 
 ---
 
