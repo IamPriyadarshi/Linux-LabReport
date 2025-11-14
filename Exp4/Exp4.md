@@ -26,7 +26,7 @@ echo "Hello, World!"
 
 
 #### Output:
-![hello world](/Exp4/Images/hello.png)
+![hello world](/Exp4/.img/hello.png)
 
 ## Exercise 2: [Personalized Greeting Script]
 
@@ -45,7 +45,7 @@ echo "Hello, $name! Welcome to Shell Scripting."
 
 
 ## Output:
-![Name](/Exp4/Images/name.png)
+![Name](/Exp4/.img/name.png)
 ## Exercise 3: [Arithmetic Operations in Shell Scripting]
 
 ## Task Statement:
@@ -66,7 +66,7 @@ echo "Division: $((num1 / num2))"
 
 
 ## Output:
-![aritmetic](/Exp4/Images/arithmetic.png)
+![aritmetic](/Exp4/.img/arithmetic.png)
 ## Exercise 4:
 * [Voting Eligibility]
 
@@ -88,6 +88,6 @@ fi
 
 
 ## Output:
-![voting](/Exp4/Images/voting.png)
+![voting](/Exp4/.img/voting.png)
 ## Result
 * The Exercises were successfully completed for Basic Shell Scripting.

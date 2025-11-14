@@ -40,7 +40,7 @@ done
 
 ### Output:
 
-![](/Exp7/Images/output.png)
+![](/Exp7/.img/output.png)
 
 
 ---
@@ -65,7 +65,7 @@ ps -p "$pid" -o pid,ppid,state,comm,%mem,%cpu
 
 ### Output:
 
-![](/Exp7/Images/process.png)
+![](/Exp7/.img/process.png)
 
 ---
 
@@ -93,7 +93,7 @@ crontab -e
 
 ### Output:
 
-![](/Exp7/Images/date.png)
+![](/Exp7/.img/date.png)
 ---
 
 ## Task 4:
@@ -130,7 +130,7 @@ factorial $num
 
 ### Output:
 
-![](/Exp7/Images/fact.png)
+![](/Exp7/.img/fact.png)
 
 ---
 

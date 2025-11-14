@@ -45,7 +45,7 @@ fi`
 
 
 ### Output:
-![Prime number](/Exp5/Images/prime.png)
+![Prime number](/Exp5/.img/prime.png)
 
 ## Exercise 2: [Sum of Digits]
 
@@ -73,7 +73,7 @@ echo "Sum of digits: $sum"
 
 
 ### Output:
-![sum](/Exp5/Images/sum.png)
+![sum](/Exp5/.img/sum.png)
 
 ## Exercise 3: [Armstrong Numbers]
 
@@ -108,7 +108,7 @@ fi
 
 
 ### Output:
-![armstrong](/Exp5/Images/armstong.png)
+![armstrong](/Exp5/.img/armstong.png)
 
 ## Result:
 * 

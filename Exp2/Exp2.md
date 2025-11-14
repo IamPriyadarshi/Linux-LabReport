@@ -30,7 +30,7 @@ cd scripts
 pwd
 '''
 ### Output:
-![Ls](./Images/LSN.png)
+![Ls](./.img/LSN.png)
 
 ## TASK 2: [FIle Creation and Content]
 
@@ -52,7 +52,7 @@ cat readme.txt
 ```
 
 ### Output:
-![mkdir](./Images/mkdir.png)
+![mkdir](./.img/mkdir.png)
 
 
 ## TASK 3: [FIle Operations]
@@ -71,7 +71,7 @@ cp readme.txt data/project_info.txt
 ```
 
 ### Output:
-![](./Images/cpcmd.png)
+![](./.img/cpcmd.png)
 
 
 ## TASK 4: [FIle Permissions]
@@ -91,7 +91,7 @@ chmod u+x backup.sh
 ```
 
 ### Output:
-![](./Images/Backup.png)
+![](./.img/Backup.png)
 ## TASK 5: [FIle Viewing]
 
 ## Task Statement:
@@ -110,7 +110,7 @@ grep "1"
 ```
 
 ### Output:
-![](./Images/Seq.png)
+![](./.img/Seq.png)
 
 
 ## TASK 6: [Text Editing]
@@ -139,7 +139,7 @@ cat config.txt
 
 
 ### Output:
-![](./Images/vim.png)
+![](./.img/vim.png)
 ## TASK 7: [System Information]
 
 ## Task Statement:
@@ -165,7 +165,7 @@ df -h >> system_info.txt
 ```
 
 ### Output:
-![Info](./Images/info.png)
+![Info](./.img/info.png)
 
 ## TASK 8: [File Organisation]
 
@@ -197,7 +197,7 @@ history 10
 ```
 
 ### Output:
-![History](./Images/History.png)
+![History](./.img/History.png)
 
 ## TASK 10: [Comprehensive Cleanup]
 

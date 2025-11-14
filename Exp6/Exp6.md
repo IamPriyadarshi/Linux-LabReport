@@ -51,7 +51,7 @@ fi
 
 ### Output:
 
-![](/Exp6/Images/palindrome.png)
+![](/Exp6/.img/palindrome.png)
 ---
 
 ## Exercise 2: GCD and LCM check
@@ -86,7 +86,7 @@ echo "LCM: $lcm"
 
 ### Output:
 
-![](/Exp6/Images/LCM.png)
+![](/Exp6/.img/LCM.png)
 
 ---
 
@@ -113,7 +113,7 @@ printf "%s\n" "${arr[@]}" | sort -nr
 
 ### Output:
 
-![](/Exp6/Images/)
+![](/Exp6/.img/)
 ---
 
 ## Assignment 1 
@@ -143,7 +143,7 @@ echo "Factorial of $num is: $fact"
 
 ### Output:
 
-![](/Exp6/Images/factorial.png)
+![](/Exp6/.img/factorial.png)
 ---
 
 ## Task 2
@@ -177,7 +177,7 @@ echo "The word '$word' appears $count times in the file '$filename'."
 
 ### Output:
 
-![](/Exp6/Images/filename.png)
+![](/Exp6/.img/filename.png)
 
 ---
 
@@ -215,7 +215,7 @@ echo
 
 ### Output:
 
-![](/Exp6/Images/fibonaaci.png)
+![](/Exp6/.img/fibonaaci.png)
 ---
 
 ## Task 4
@@ -241,7 +241,7 @@ fi
 
 ### Output:
 
-![](/Exp6/Images/email.png)
+![](/Exp6/.img/email.png)
 
 
 

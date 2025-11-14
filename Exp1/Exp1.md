@@ -23,19 +23,19 @@
 
 * `**Open Powershell as administrator**`: Press `win+x` and select `"Windows Powershell (Admin)"` or `"Terminal (Admin)"`.
 
-![Terminal](./Images/Terminal.png)
+![Terminal](./.img/Terminal.png)
 
 * Run the WSL Installation Command:
 ```
 wsl -l -o
 ```
-![Code](./Images/aterminal.png)
+![Code](./.img/aterminal.png)
 
 ```
 wsl --install Ubuntu
 ```
 * Once the wsl distro is installed it'll show up like this
-![wsl](./Images/Ls.png)
+![wsl](./.img/Ls.png)
 
 * Once done with the installation reboot your system when prompted.
 
