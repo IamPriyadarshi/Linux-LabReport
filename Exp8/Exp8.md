@@ -73,7 +73,7 @@ esac
 
 ### Output:
 
-![exp8_case.png](/.img/exp8_case.png)
+![exp8_case.png](/Exp8/.img/vowel.png)
 
 ---
 
@@ -102,7 +102,7 @@ done
 
 ### Output:
 
-![exp8_args.png](/.img/exp8_args.png)
+![exp8_args.png](/Exp8/.img/found.png)
 
 ---
 
@@ -134,7 +134,7 @@ fi
 
 ### Output:
 
-![exp8_leapyear.png](/.img/exp8_leapyear.png)
+![exp8_leapyear.png](/Exp8/.img/leapyear.png)
 
 ---
 
