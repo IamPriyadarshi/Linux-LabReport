@@ -51,10 +51,7 @@ fi
 
 ### Output:
 
-<p align="center">
-<img src="img\ex1.png" width="900">
-</p>
-
+![](/Exp6/Images/palindrome.png)
 ---
 
 ## Exercise 2: GCD and LCM check
@@ -89,9 +86,7 @@ echo "LCM: $lcm"
 
 ### Output:
 
-<p align="center">
-<img src="img\ex2.png" width="900">
-</p>
+![](/Exp6/Images/LCM.png)
 
 ---
 
@@ -118,10 +113,7 @@ printf "%s\n" "${arr[@]}" | sort -nr
 
 ### Output:
 
-<p align="center">
-<img src="img\ex3.png" width="900">
-</p>
-
+![](/Exp6/Images/)
 ---
 
 ## Assignment 1 
@@ -151,10 +143,7 @@ echo "Factorial of $num is: $fact"
 
 ### Output:
 
-<p align="center">
-<img src="img\t1.png" width="900">
-</p>
-
+![](/Exp6/Images/factorial.png)
 ---
 
 ## Task 2
@@ -188,9 +177,7 @@ echo "The word '$word' appears $count times in the file '$filename'."
 
 ### Output:
 
-<p align="center">
-<img src="img\t2.png" width="900">
-</p>
+![](/Exp6/Images/filename.png)
 
 ---
 
@@ -228,10 +215,7 @@ echo
 
 ### Output:
 
-<p align="center">
-<img src="img\t3.png" width="900">
-</p>
-
+![](/Exp6/Images/fibonaaci.png)
 ---
 
 ## Task 4
@@ -257,35 +241,8 @@ fi
 
 ### Output:
 
-<p align="center">
-<img src="img\t4.png" width="900">
-</p>
+![](/Exp6/Images/email.png)
 
-## Task 5
-
-### Task Statement:
-
-Write a script with an intentional error, run it with '''bash -x''' and explain the debug output
-
-### Command(s):
-
-```bash
-#use the same code as above added an intentional error of removing fi in the end while closing the loop
-read -p "Enter an email address: " email
-
-regex='^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$'
-if [[ $email =~ $regex ]]; then
-    echo "✔ Valid email"
-else
-    echo "✖ Invalid email"
-i
-```
-
-### Output:
-
-<p align="center">
-<img src="img\t5.png" width="900">
-</p>
 
 
 ## Result
