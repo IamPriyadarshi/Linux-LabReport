@@ -5,10 +5,6 @@
 
 ---
 
-## 📘 Overview
-This repository contains Linux lab experiments completed as part of coursework.  
-Each experiment is organized into its own folder for easy access and navigation.
-
 ---
 
 ## 🧪 Experiment List
@@ -25,9 +21,3 @@ Each experiment is organized into its own folder for easy access and navigation.
 | **Experiment 8** | [Go to Exp8](./Exp8) |
 
 ---
-
-## 📥 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/IamPriyadarshi/Linux-LabReport.git
